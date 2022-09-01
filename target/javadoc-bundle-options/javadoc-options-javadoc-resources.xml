@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javadocOptions>
+  <docletArtifacts>
+    <docletArtifact />
+  </docletArtifacts>
+  <tagletArtifacts>
+    <tagletArtifact />
+  </tagletArtifacts>
+  <excludePackageNames>
+    <excludePackageName>com.tigo.platform</excludePackageName>
+    <excludePackageName>com.tigo.commons</excludePackageName>
+    <excludePackageName>com.tigo.enterprise</excludePackageName>
+    <excludePackageName>hn.com.tigo.josm.validation.*</excludePackageName>
+    <excludePackageName>hn.com.tigo.josm.common.*</excludePackageName>
+    <excludePackageName>hn.com.tigo.josm.persistence.*</excludePackageName>
+    <excludePackageName>hn.com.tigo.josm.proxy.*</excludePackageName>
+    <excludePackageName>*.dto.*</excludePackageName>
+    <excludePackageName>hn.com.tigo.josm.gateway.*</excludePackageName>
+    <excludePackageName>hn.com.tigo.josm.scheduler.*</excludePackageName>
+  </excludePackageNames>
+  <javadocResourcesDirectory>src/main/javadoc</javadocResourcesDirectory>
+</javadocOptions>
